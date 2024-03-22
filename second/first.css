@@ -1,7 +1,5 @@
 body {
-    background-image: url('https://tanki.su/static/5.130.9_1cb8d9/common/img/wot_artboard_ruby.png');
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: goldenrod;
 }
 .bor {
     border: 1px solid gray;
