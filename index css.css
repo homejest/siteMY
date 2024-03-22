@@ -1,0 +1,62 @@
+
+/* more */
+.center {
+    text-align: center;
+}
+.center1 {
+    display: flex;
+    justify-content: center;
+}
+.border30 {
+    border-radius: 30px;
+}
+.top10 {
+    position: relative;
+    top: 10px;
+}
+.left10 {
+    position: relative;
+    left: 10px;
+}
+/* more */
+a {
+    text-decoration: none;
+}
+.choices {
+    display: flex;
+    padding: 0px 500px;
+}
+.choic {
+    flex: 50%;
+    background-color: aquamarine;
+    width: 300px;
+    height: 380px;
+    border-radius: 30px;
+    box-shadow: 3px 3px 3px 5px grey;
+}
+.choicOther {
+    background-color: aquamarine;
+    width: 300px;
+    height: 380px;
+    border-radius: 30px;
+    box-shadow: 3px 3px 3px 5px grey;
+}
+.choic1 {
+    margin-right: 30px;
+}
+.choic2 {
+    margin-left: 30px;
+}
+.choic3 {
+    margin-top: 60px;
+}
+.butMore {
+    border: 1px solid gray;
+    text-align: center;
+    width: 280px;
+    height: 30px;
+    color: black;
+}
+.butMore:hover {
+    background-color: #188194;
+}
