@@ -1,0 +1,14 @@
+body {
+    background-image: url('https://tanki.su/static/5.130.9_1cb8d9/common/img/wot_artboard_ruby.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bor {
+    border: 1px solid gray;
+    border-radius: 30px;
+}
+p {
+    color: darkolivegreen;
+    background-color: darkblue;
+    border-radius: 30px;
+}
